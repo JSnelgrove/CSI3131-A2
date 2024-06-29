@@ -2,6 +2,8 @@
     300247435
 */
 #include <stdio.h>
+#include <pthread.h>
+
 
 int main(void){
     int a, b, turn;
